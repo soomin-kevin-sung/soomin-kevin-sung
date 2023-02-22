@@ -1,3 +1,5 @@
+![soomin-kevin-sung GitHub stats](https://github-readme-stats.vercel.app/api?username=soomin-kevin-sung&show_icons=true&theme=merko)
+
 ### Hi there 👋
 
 <!--
