@@ -1,6 +1,18 @@
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fsoomin-kevin-sung&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=visited&edge_flat=false)](https://hits.seeyoufarm.com)
+## Skills
 
-![soomin-kevin-sung GitHub stats](https://github-readme-stats.vercel.app/api?username=soomin-kevin-sung&show_icons=true&theme=default)
+### Platform & Languages
+
+<img src="https://img.shields.io/badge/Windows-0078D6?style=flat-square&logo=Windows&logoColor=white" />
+<img src="https://img.shields.io/badge/AutoCAD%20.NET%20API-000000?style=flat-square&logo=Autodesk&logoColor=white" />
+<img src="https://img.shields.io/badge/Civil3D%20.NET%20API-000000?style=flat-square&logo=Autodesk&logoColor=white" />
+<br>
+<img src="https://img.shields.io/badge/WPF-512BD4?style=flat-square&logo=dotnet&logoColor=white" />
+<img src="https://img.shields.io/badge/WinForms-512BD4?style=flat-square&logo=dotnet&logoColor=white" />
+<img src="https://img.shields.io/badge/VB%20.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white" />
+<br>
+<img src="https://img.shields.io/badge/C%23-512BD4?style=flat-square&logo=dotnet&logoColor=white" />
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white" />
+<br>
 
 ### Hi there 👋
 
