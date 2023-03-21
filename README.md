@@ -7,17 +7,14 @@
 
 
 ### ⛏ Skills
-#### Platform
+#### Platform & Languages
 <p>
   <img src="https://img.shields.io/badge/Windows-0078D6?style=flat-square&logo=Windows&logoColor=white" />
   <img src="https://img.shields.io/badge/WPF-0078D6?style=flat-square&logo=windows&logoColor=white" />
   <img src="https://img.shields.io/badge/WinForms-0078D6?style=flat-square&logo=windows&logoColor=white" />
   <img src="https://img.shields.io/badge/AutoCAD%20.NET-000000?style=flat-square&logo=autodesk&logoColor=white" />
   <img src="https://img.shields.io/badge/Civil3D%20.NET-000000?style=flat-square&logo=autodesk&logoColor=white" />
-</p>
-
-#### Languages
-<p>
+  <br>
   <img src="https://img.shields.io/badge/C%23-512BD4?style=flat-square&logo=dotnet&logoColor=white" />
   <img src="https://img.shields.io/badge/VB%20.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white" />
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
