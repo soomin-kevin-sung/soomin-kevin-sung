@@ -1,4 +1,4 @@
-### <img src="https://slackmojis.com/emojis/6883-blob_nomouth/download" alt="blob_nomouth" width="30"/> Hey, Nice to see you.
+# <img src="https://slackmojis.com/emojis/8272-blob-cool/download" alt="blob-cool" width="20"/> Hey, Nice to see you.
 
 <p>
   Welcome to my GitHub Page! <br>
