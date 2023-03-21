@@ -4,10 +4,10 @@
   Welcome to my GitHub Page! <br>
   I'm Kevin, <b>Application Developer</b> skilled in Windows Application.
 </p>
+<br>
 
-
-### ⛏ Skills
-#### Platform & Languages
+## ⛏ Skills
+### Platform & Languages
 <p>
   <img src="https://img.shields.io/badge/Windows-0078D6?style=flat-square&logo=Windows&logoColor=white" />
   <img src="https://img.shields.io/badge/WPF-0078D6?style=flat-square&logo=windows&logoColor=white" />
@@ -20,16 +20,36 @@
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
 </p>
 
-#### Tools
+### Tools
 <p>
   <img src="https://img.shields.io/badge/Visual%20Studio-5C2D91?style=flat-square&logo=visualstudio&logoColor=white" />
   <img src="https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white" />
   <img src="https://img.shields.io/badge/PyCharm-000000?style=flat-square&logo=pycharm&logoColor=white" />
   <br>
   <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white" />
+  <img src="https://img.shields.io/badge/SourceTree-0052CC?style=flat-square&logo=SourceTree&logoColor=white" />
   <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white" />
   <img src="https://img.shields.io/badge/JIRA-0052CC?style=flat-square&logo=jirasoftware&logoColor=white" />
   <img src="https://img.shields.io/badge/Slack-4A154B?style=flat-square&logo=slack&logoColor=white" />
+</p>
+<br>
+
+## 📖 Studying
+<p>
+  <img src="https://img.shields.io/badge/Unity-000000?style=flat-square&logo=Unity&logoColor=FFFFFF" />
+  <img src="https://img.shields.io/badge/Algorithm-0288D1?style=flat-square&logo=bookstack&logoColor=white" />
+  <img src="https://img.shields.io/badge/Data%20Structure-2AB1AC?style=flat-square&logo=bookstack&logoColor=white" />
+</p>
+<br>
+
+## ⚡ Contact
+<p>
+  <a href="mailto:ssm0725@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/ssm0725@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://www.linkedin.com/in/soomin-sung-518585265/" target="_blank">
+    <img src="https://img.shields.io/badge/SooMin%20(Kevin)%20Sung-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/>
+  </a>
 </p>
 
 <!--
