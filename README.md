@@ -6,7 +6,7 @@
 </p>
 <br>
 
-## ⛏ Skills
+## 📚 Skills
 ### Platform & Languages
 <p>
   <img src="https://img.shields.io/badge/Windows-0078D6?style=flat-square&logo=Windows&logoColor=white" />
@@ -34,7 +34,7 @@
 </p>
 <br>
 
-## 📖 Studying
+## 📝 Studying
 <p>
   <img src="https://img.shields.io/badge/Unity-000000?style=flat-square&logo=Unity&logoColor=FFFFFF" />
   <img src="https://img.shields.io/badge/Algorithm-0288D1?style=flat-square&logo=bookstack&logoColor=white" />
