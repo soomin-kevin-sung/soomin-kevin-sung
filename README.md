@@ -9,7 +9,6 @@
 ## 📚 Skills
 ### Platform & Languages
 <p>
-  <img src="https://img.shields.io/badge/Windows-0078D6?style=flat-square&logo=Windows&logoColor=white" />
   <img src="https://img.shields.io/badge/WPF-0078D6?style=flat-square&logo=windows&logoColor=white" />
   <img src="https://img.shields.io/badge/WinForms-0078D6?style=flat-square&logo=windows&logoColor=white" />
   <img src="https://img.shields.io/badge/AutoCAD%20.NET-000000?style=flat-square&logo=autodesk&logoColor=white" />
